@@ -51,15 +51,15 @@ public class ChatBot {
         String answer8 = input.nextLine();
 
         if(answer1.equalsIgnoreCase("yes") && answer8.equalsIgnoreCase("yes")){
-            System.out.println("You are 20 years old.");
+            System.out.println("You are 20 years old. I am sorry if I am wrong.");
         }else if(answer2.equalsIgnoreCase("No") && answer7.equalsIgnoreCase("yes")){
-            System.out.println("You are 40 years old.");
+            System.out.println("You are 40 years old. I am sorry if I am wrong.");
         }else if(answer3.equalsIgnoreCase("No") && answer8.equalsIgnoreCase("yes")){
-            System.out.println("You are 30 years old.");
+            System.out.println("You are 30 years old. I am sorry if I am wrong.");
         }else if(answer4.equalsIgnoreCase("yes") && answer6.equalsIgnoreCase("yes")){
-            System.out.println("You are 60 years old.");
+            System.out.println("You are 60 years old. I am sorry if I am wrong.");
         }else if(answer5.equalsIgnoreCase("YES") && answer7.equalsIgnoreCase("yes")){
-            System.out.println("You are 50 years old.");
+            System.out.println("You are 50 years old. I am sorry if I am wrong.");
         } else{
             System.out.println("I am sorry! I need some more information.");
             System.out.println("What is your birth year?");
