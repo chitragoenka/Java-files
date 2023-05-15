@@ -9,6 +9,7 @@ public class BankAccount {
         this.accountHolderName = accountHolderName;
     }
 
+
     public void deposit(double amount) {
         balance += amount;
     }

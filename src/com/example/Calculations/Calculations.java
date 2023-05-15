@@ -13,7 +13,7 @@ public class Calculations {
         int sum = num1 + num2;
         int diff = num1 - num2;
         int product = num1 * num2;
-        double quotient = (double) num1 / (double)num2;;
+        double quotient = (double)num1 / (double)num2;;
         int remainder = num1 % num2;
 
         System.out.println(num1 + " + " + num2 + " = " + sum);

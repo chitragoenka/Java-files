@@ -16,9 +16,9 @@ public class TestScores {
             System.out.println("Your grade is a C :(");
         } else if (score >= 60) {
             System.out.println("Your grade is a D :(");
-        } else {
+        } else
             System.out.println("Your grade is an F :(");
-        }
+
     }
 }
 

@@ -3,6 +3,8 @@ package com.example.ClassObjectConstructorsPractice;
 public class Main {
     public static void main(String[] args) {
         BankAccount myAccount = new BankAccount(500, "John");
+
+
         myAccount.deposit(100);
 //        myAccount.printAccountDetails();
         System.out.println(myAccount);
