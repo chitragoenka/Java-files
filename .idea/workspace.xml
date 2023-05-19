@@ -5,70 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da715b39-f9d0-47ef-870b-85bb53abb652" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/collectionsanderrorhandling/IntegerOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/handlingexceptions/sensorsandtemperatureapplication/AverageSensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/handlingexceptions/sensorsandtemperatureapplication/Sensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/handlingexceptions/sensorsandtemperatureapplication/StandardSensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/handlingexceptions/sensorsandtemperatureapplication/TemperatureSensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/handlingexceptions/validatingparameters/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/handlingexceptions/validatingparameters/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/handlingexceptions/validatingparameters/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/array1/CommonEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/array1/FirstLast6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/array1/MakePi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/array1/SameFirstLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/logic1/CigarParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/logic1/DateFashion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/logic2/MakeBricks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/string1/HelloName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/string1/MakeAbba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/string1/MakeOutWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/string1/MakeTags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup1/Diff21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup1/MonkeyTrouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup1/SleepIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup1/SumDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup2/CountXX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup2/DoubleX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup2/FrontTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup2/StringTimes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ArraysListsPractice/FifthItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/arraylistspractice/FifthItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ArraysListsPractice/HowLarge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/arraylistspractice/HowLarge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ArraysListsPractice/IndexOfInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/arraylistspractice/IndexOfInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ArraysListsPractice/LastItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/arraylistspractice/LastItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ArraysListsPractice/SumOfList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/arraylistspractice/SumOfList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/Calculations/Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/calculations/Calculations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ChatBotProject/ChatBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/chatbotproject/ChatBot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ClassObjectConstructorsPractice/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/classobjectconstructorspractice/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ClassObjectConstructorsPractice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/classobjectconstructorspractice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ClassObjectConstructorsPractice/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/classobjectconstructorspractice/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ConditionalStatements/BoilingWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/conditionalstatements/BoilingWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ConditionalStatements/NumberComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/conditionalstatements/NumberComparison.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ConditionalStatements/SameOrNah.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/conditionalstatements/SameOrNah.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ConditionalStatements/TestScores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/conditionalstatements/TestScores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ContinuedBankAccounts/BankAccount/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/continuedbankaccounts/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ContinuedBankAccounts/BankAccount/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/continuedbankaccounts/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/LibraryManagementSystem/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/librarymanagementsystem/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/LibraryManagementSystem/DVD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/librarymanagementsystem/DVD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/LibraryManagementSystem/LibraryAppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/librarymanagementsystem/LibraryAppMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/LibraryManagementSystem/LibraryItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/librarymanagementsystem/LibraryItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/LibraryManagementSystem/LibraryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/librarymanagementsystem/LibraryManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/LibraryManagementSystem/LibraryOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/librarymanagementsystem/LibraryOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ObjectsinListsPractice/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/objectsinlistspractice/Animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ObjectsinListsPractice/Animal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/objectsinlistspractice/Animal/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ObjectsinListsPractice/Books/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/objectsinlistspractice/Books/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ObjectsinListsPractice/Books/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/objectsinlistspractice/Books/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ObjectsinListsPractice/TVShows/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/objectsinlistspractice/TVShows/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ObjectsinListsPractice/TVShows/TvShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/objectsinlistspractice/TVShows/TvShow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/Overloading/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/overloading/Animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/Overloading/Animal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/overloading/Animal/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/Overloading/Book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/overloading/Book/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/Overloading/Book/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/overloading/Book/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/Overloading/Counter/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/overloading/Counter/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/Overloading/Counter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/overloading/Counter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/Overloading/TvShow/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/overloading/TvShow/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/Overloading/TvShow/TvShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/overloading/TvShow/TvShow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/PracticingLoops/CountToEleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/practicingloops/CountToEleven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/PracticingLoops/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/practicingloops/Multiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/PracticingLoops/PositiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/practicingloops/PositiveNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/PracticingLoops/StopAtFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/practicingloops/StopAtFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/PracticingLoops/TakeABreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/practicingloops/TakeABreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/PracticingMethods/AverageMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/practicingmethods/AverageMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/PracticingMethods/DivideMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/practicingmethods/DivideMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/PracticingMethods/MethodReturnTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/practicingmethods/MethodReturnTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ScannerAssignments/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/scannerassignments/Greeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ScannerAssignments/HelloThere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/scannerassignments/HelloThere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ScannerAssignments/Superhero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/scannerassignments/Superhero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/ScannerAssignments/VariableInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/scannerassignments/VariableInputs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/SchoolManagementSystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/schoolmanagementsystem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/SchoolManagementSystem/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/schoolmanagementsystem/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/SchoolManagementSystem/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/schoolmanagementsystem/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/SchoolManagementSystem/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/schoolmanagementsystem/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/SchoolManagementSystem/spec.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/schoolmanagementsystem/spec.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/casting/casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/casting/Casting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +76,7 @@
       <workItem from="1683569937187" duration="1473000" />
       <workItem from="1683591086015" duration="33000" />
       <workItem from="1683591826372" duration="670000" />
-      <workItem from="1684425904982" duration="17519000" />
+      <workItem from="1684425904982" duration="31184000" />
     </task>
     <servers />
   </component>
