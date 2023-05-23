@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da715b39-f9d0-47ef-870b-85bb53abb652" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/secondpartoflibrarymanagement/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/secondpartoflibrarymanagement/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/secondpartoflibrarymanagement/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/secondpartoflibrarymanagement/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/debuggingpractice/DebuggingExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/CreditCardValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/DateValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/EmailValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/HexaColorCodeValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/JavaIdentifierValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/PhoneNumberValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/TimeValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/URLValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/ZipcodeValidator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/takinglibrarymanagementfurther/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/takinglibrarymanagementfurther/Library.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/takinglibrarymanagementfurther/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/takinglibrarymanagementfurther/User.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +67,22 @@
       <workItem from="1683569937187" duration="1473000" />
       <workItem from="1683591086015" duration="33000" />
       <workItem from="1683591826372" duration="670000" />
-      <workItem from="1684425904982" duration="64016000" />
+      <workItem from="1684425904982" duration="73828000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/debuggingpractice/DebuggingExercise.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
