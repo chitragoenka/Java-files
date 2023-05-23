@@ -5,25 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da715b39-f9d0-47ef-870b-85bb53abb652" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/array1/CommonEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/array1/FirstLast6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/array1/MakePi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/array1/SameFirstLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/logic1/CigarParty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/logic1/DateFashion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/logic2/MakeBricks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/string1/HelloName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/string1/MakeAbba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/string1/MakeOutWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/string1/MakeTags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup1/Diff21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup1/MonkeyTrouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup1/SleepIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup1/SumDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup2/CountXX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup2/DoubleX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup2/FrontTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/practicejavaproblems/warmup2/StringTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/javalambdaexpressions/BuiltInFunctionalInterfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/javalambdaexpressions/LambdaFunctionalInterfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/javalambdaexpressions/SimpleLambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/lambdaexpressions/TextProcessingOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicelibrary/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicelibrary/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicelibrary/LibraryManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/practicelibrary/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/takinglibrarymanagementfurther/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/takinglibrarymanagementfurther/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/takinglibrarymanagementfurther/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/takinglibrarymanagementfurther/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +69,7 @@
       <workItem from="1683569937187" duration="1473000" />
       <workItem from="1683591086015" duration="33000" />
       <workItem from="1683591826372" duration="670000" />
-      <workItem from="1684425904982" duration="31184000" />
+      <workItem from="1684425904982" duration="61187000" />
     </task>
     <servers />
   </component>
