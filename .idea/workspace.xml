@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da715b39-f9d0-47ef-870b-85bb53abb652" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/debuggingpractice/DebuggingExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/CreditCardValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/DateValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/EmailValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/HexaColorCodeValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/JavaIdentifierValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/PhoneNumberValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/TimeValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/URLValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/regularexpressions/ZipcodeValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/assignmentio/MergingIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/assignmentio/common.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/assignmentio/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/assignmentio/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/assignmentio/merged.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/concurrency/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/concurrency/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/concurrency/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/concurrency/SharedBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/librarymanagementsystem/merged.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/projectfilemanagerapp/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/projectfilemanagerapp/hello.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,25 +39,33 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PWPadBvAjNUkLUDyG2tYzO2ggm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\goenk\IdeaProjects\FirstJavaFile\src\com\example\librarymanagementsystem" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,22 +77,15 @@
       <workItem from="1683569937187" duration="1473000" />
       <workItem from="1683591086015" duration="33000" />
       <workItem from="1683591826372" duration="670000" />
-      <workItem from="1684425904982" duration="73828000" />
+      <workItem from="1684425904982" duration="91038000" />
+      <workItem from="1685056378628" duration="9620000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/example/debuggingpractice/DebuggingExercise.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
